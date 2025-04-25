@@ -4,7 +4,7 @@ This is some text
 
 ## Here is a subheader
 
-And more txt
+And more txt here.
 
 ## another subheader
 
